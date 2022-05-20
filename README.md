@@ -14,6 +14,6 @@ Git clone https: https://github.com/WilliamL1998/cautious-happiness.git URL of d
 
 Simply hit the button named "Generate Password" to begin. The generated password will then appear in the textbox named "Your Secure Password" which can then be selected and copied. Screenshots for example:
 
-![Screenshot 1](../cautious-happiness/assets/images/module%203%20sc1.png)
-![Screenshot 2](../cautious-happiness/assets/images/module%203%20sc2.png)
-![Screenshot 3](../cautious-happiness/assets/images/module%203%20sc3.png)
+![Screenshot 1](./assets/images/module%203%20sc1.png)
+![Screenshot 2](./assets/images/module%203%20sc1.png)
+![Screenshot 3](./assets/images/module%203%20sc1.png)
