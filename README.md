@@ -1,4 +1,4 @@
-# Module 3 cautious-happiness
+# Random Password Generator
 
 ## Description
 
